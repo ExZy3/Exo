@@ -6,9 +6,12 @@
 
 
 ###  - Invite Link 
-   ឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵឵឵឵ ឵឵឵`🔶┆ Invite Exo :` **[Click here](https://discord.com/oauth2/authorize?client_id=781436186510098442&scope=bot&permissions=835726462)** ┆ 
+឵឵឵`🔶┆ Invite Exo :` **[Click here](https://discord.com/oauth2/authorize?client_id=781436186510098442&scope=bot&permissions=835726462)** ┆ 
+
 ` 🔶┆ Exo WebSite :` **[Click here](https://exo-bot-gg.glitch.me/)** ┆
-` 🔶┆ Exo Support Server :` **[Click here](https://discord.com/invite/d6ysCwrQeR)** ┆                       
+
+` 🔶┆ Exo Support Server :` **[Click here](https://discord.com/invite/d6ysCwrQeR)** ┆  
+
  ⚠️┆Type `=contact` **If you want to contact The Bot's Owner**
 
 
@@ -29,6 +32,8 @@ Command | Usage
 
 
 ### - **Fun Commands** :
+Command | Usage
+------------ | -------------
 `=rate <@user>` | Rate A User
 `=slap <@user>` | Slap A User
 `=kill <@user>` | Kill A User
@@ -38,6 +43,8 @@ Command | Usage
 
 
 ### - **Moderation Commands** :
+Command | Usage
+------------ | -------------
 `=ban <@user>` | Ban a Member
 `=unban <@user>` | Unban a Member
 `=kick <@user>` | Kick a Member
