@@ -1,3 +1,5 @@
+![Invite me](https://cdn.discordapp.com/attachments/769935019917049876/791638786102525972/20201224_130918.jpg)
+
 # Exo
  Exo-bot is a Simple and fast bot that has Moderation, Fun and more commands to Manage your server.
 
