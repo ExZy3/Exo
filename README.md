@@ -6,11 +6,11 @@
 
 
 ###  - Invite Link 
-឵឵឵`🔶┆ Invite Exo :` **[Click here](https://discord.com/oauth2/authorize?client_id=781436186510098442&scope=bot&permissions=835726462)** ┆ 
+឵឵឵`🔶┆ Invite Exo :` **[Click here](https://discord.com/oauth2/authorize?client_id=781436186510098442&scope=bot&permissions=835726462)** 
 
-` 🔶┆ Exo WebSite :` **[Click here](https://exo-bot-gg.glitch.me/)** ┆
+` 🔶┆ Exo WebSite :` **[Click here](https://exo-bot-gg.glitch.me/)** 
 
-` 🔶┆ Exo Support Server :` **[Click here](https://discord.com/invite/d6ysCwrQeR)** ┆  
+` 🔶┆ Exo Support Server :` **[Click here](https://discord.com/invite/d6ysCwrQeR)**   
 
  ⚠️┆Type `=contact` **If you want to contact The Bot's Owner**
 
