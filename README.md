@@ -15,6 +15,7 @@
  ⚠️┆Type `=contact` **If you want to contact The Bot's Owner**
 
 
+![Invite me](https://cdn.discordapp.com/attachments/769935019917049876/791639604981530644/20201224_131300.jpg)
 
 ### - **Main Commands** : 
 
@@ -57,4 +58,3 @@ Command | Usage
 `=move <@user>` | move a member to your voice channel
 `=move all` | move all members connected to your voice channel
 
-![Invite me](https://cdn.discordapp.com/attachments/769935019917049876/791639604981530644/20201224_131300.jpg)
