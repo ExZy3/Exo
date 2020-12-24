@@ -1,5 +1,3 @@
-![Invite me](https://cdn.discordapp.com/attachments/769935019917049876/791638786102525972/20201224_130918.jpg)
-
 # Exo
  Exo-bot is a Simple and fast bot that has Moderation, Fun and more commands to Manage your server.
 
@@ -58,3 +56,5 @@ Command | Usage
 `=embed` | Repeat Msg That You Typed With Embed
 `=move <@user>` | move a member to your voice channel
 `=move all` | move all members connected to your voice channel
+
+![Invite me](https://cdn.discordapp.com/attachments/769935019917049876/791639604981530644/20201224_131300.jpg)
