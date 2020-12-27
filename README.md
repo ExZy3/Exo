@@ -1,5 +1,6 @@
 # Exo
  Exo-bot is a Simple and fast bot that has Moderation, Fun and more commands to Manage your server.
+ 
 [![Discord Bots](https://top.gg/api/widget/781436186510098442.svg)](https://top.gg/bot/781436186510098442)
 
 ### - Exo-Prefix is : `=`
