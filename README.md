@@ -4,6 +4,7 @@
 
 ### - Exo-Prefix is : `=`
 
+[![Discord Bots](https://top.gg/api/widget/781436186510098442.svg)](https://top.gg/bot/781436186510098442)
 
 ###  - Invite Link 
 ឵឵឵`🔶┆ Invite Exo :` **[Click here](https://discord.com/oauth2/authorize?client_id=781436186510098442&scope=bot&permissions=835726462)** 
