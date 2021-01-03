@@ -42,8 +42,8 @@ Command | Usage
 `=kill <@user>` | Kill A User
 `=kiss <@user>` | Kiss A User
 `=hug <@user>` | Hug A User
-`=trash <@user>` | Call A User TRASH
-
+`=trash ` | Call A User TRASH
+`=trump <text>` | Trump Tweet Your Text Typed
 
 ### - **Moderation Commands** :
 Command | Usage
@@ -57,6 +57,6 @@ Command | Usage
 `=unlock` | To Unlock a Text Chat
 `=say` | Repeat Msg That You Typed
 `=embed` | Repeat Msg That You Typed With Embed
+`=join` | Exo-Bot Join Your Voice Channel
 `=move <@user>` | move a member to your voice channel
 `=move all` | move all members connected to your voice channel
-
