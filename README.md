@@ -43,7 +43,7 @@ Command | Usage
 `=kiss <@user>` | Kiss A User
 `=hug <@user>` | Hug A User
 `=trash ` | Call A User TRASH
-`=trump <text>` | Trump Tweet Your Text Typed
+`=trump <text>` | Trump Tweets Your Text Typed
 
 ### - **Moderation Commands** :
 Command | Usage
